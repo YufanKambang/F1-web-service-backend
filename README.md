@@ -13,4 +13,3 @@ The backend dependencies:
   - As a strategist I want /compare/average-lap?d1=11&d2=22$race_id={id}  so I can compare the average speed within a given race of two drivers
   - As a new fan I want to be able to /drivers/{driver_id}  to show me a bio, portrait, and the career stats so I can learn about a given driver
   - As a fantasy-league player I want to be able to post my email to /alerts  so that I get notified by email when a pit-window opens in the next race
-  - As a user, I want to be able to create an account in the an F1 tracker web service
